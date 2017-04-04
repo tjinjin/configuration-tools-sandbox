@@ -1,0 +1,6 @@
+{
+  "name": "centos",
+  "run_list": [
+    "recipe[git]"
+  ]
+}
